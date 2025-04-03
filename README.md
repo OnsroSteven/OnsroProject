@@ -14,3 +14,4 @@ Cara Kerja Dari Projek Ini Sederhana Berikut Urutan Kerjannya</p>
   <li>Kita dapat mengelola data yang terdapat pada Google sheet.</li>
 </ol>
 
+<a href"https://youtu.be/Rreb3NK2orc">Lebih Lengkapnya Tonton Video Youtube Di Sini</a>
